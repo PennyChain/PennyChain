@@ -5,15 +5,14 @@
 - **FastAPI, MariaDB, Python, SvelteKit, .NET**
 <br>
 - 👨‍💻 All of my projects are available at:
-[https://liamribe.site/PROSJEKTER](https://liamribe.site/PROSJEKTER)
-
-
+https://liamribe.site/PROSJEKTER
+<br>
 - 📝 I regularly write articles on:
-[https://liamribe.site](https://liamribe.site)
-
+https://liamribe.site
+<br>
 - 📫 How to reach me:
 https://www.linkedin.com/in/liamribe/
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/liamribe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/liamribe/" height="30" width="40" /></a>
