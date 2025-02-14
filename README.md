@@ -6,15 +6,12 @@
 
 - 👨‍💻 All of my projects are available at:
 https://liamribe.site/PROSJEKTER
-
  
 - 📝 I regularly write articles on:
 https://liamribe.site
-
  
 - 📫 How to reach me:
 https://www.linkedin.com/in/liamribe/
-
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
