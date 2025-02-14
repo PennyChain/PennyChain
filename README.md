@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
-<h3 align="center">Software Developer & Programmer</h3>
+<h3 align="center">FullStack Developer & Programmer</h3>
 
 - 🌱 I’m currently learning **FastAPI, MariaDB, Python, SvelteKit, .NET**
 
