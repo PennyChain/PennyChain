@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
-<h3 align="center">FullStack Developer & Programmers</h3>
+<h3 align="center">FullStack Developer & Programmer</h3>
 
-- 🌱 I’m currently learning **FastAPI, MariaDB, Python, SvelteKit, .NET**
+- 🌱 I’m currently learning:
+- **FastAPI, MariaDB, Python, SvelteKit, .NET**
 
-- 👨‍💻 All of my projects are available at [https://liamribe.site/PROSJEKTER](https://liamribe.site/PROSJEKTER)
+- 👨‍💻 All of my projects are available at:
+- [https://liamribe.site/PROSJEKTER](https://liamribe.site/PROSJEKTER)
 
-- 📝 I regularly write articles on [https://liamribe.site](https://liamribe.site)
+- 📝 I regularly write articles on:
+- [https://liamribe.site](https://liamribe.site)
 
-- 📫 How to reach me **https://www.linkedin.com/in/liamribe/**
+- 📫 How to reach me:
+- **https://www.linkedin.com/in/liamribe/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
