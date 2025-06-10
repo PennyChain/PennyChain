@@ -1,28 +1,29 @@
-<table>
+<table align="center">
   <tr>
     <td colspan="2" style="padding-bottom: 10px;">
-      <pre>> NeoFetch</pre>
+      <pre style="margin: 0; font-weight: bold;">> NeoFetch</pre>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="vertical-align: top; padding-right: 15px;">
       <img src="https://github.com/PennyChain/PennyChain/blob/main/meg%20-%20ascii.png?raw=true" width="250" />
     </td>
-    <td valign="top">
-      <pre>
-        PennyChain@github
-        -----------------
-        Name: Liam Ribe 
-        Age: 19
-        Gender: Male
-        Location: Fevik, Norway
-        Hobbies: Volleyball, Pokémon, Watchmaker, Series
-        Socials: LinkedIN, Liamribe.site
-        Technologies: 🠇
+    <td style="vertical-align: top;">
+      <pre style="margin: 0;">
+PennyChain@github
+-----------------
+Name: Liam Ribe 
+Age: 19
+Gender: Male
+Location: Fevik, Norway
+Hobbies: Volleyball, Pokémon, Watchmaker, Series
+Socials: LinkedIN, Liamribe.site
+Technologies: 🠇
       </pre>
     </td>
   </tr>
 </table>
+
 
 Technologies.py
 ```python
