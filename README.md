@@ -16,7 +16,7 @@ Name: Liam Ribe
 Age: 19
 Gender: Male
 Location: Fevik, Norway
-Hobbies: Volleyball, Pokémon, Watchmaker, Series
+Hobbies: Volleyball, Pokémon, Watchmaker, Movies/Series
 Socials: LinkedIN, Liamribe.site
 Technologies: 🠇
       </pre>
