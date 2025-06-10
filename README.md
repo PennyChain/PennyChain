@@ -25,6 +25,11 @@ Technologies: 🠇
 </table>
 
 
+
+</br>
+</br>
+
+
 Technologies.py
 ```python
 Pennychain = {
@@ -52,6 +57,12 @@ Pennychain = {
 }
 print(Pennychain)
 ```
+
+</br>
+</br>
+
+
+
 Output:
 <h2 align="center">Backend</h2>
 <p align="center">
@@ -92,3 +103,18 @@ Output:
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
 
+
+
+
+
+</br>
+</br>
+<h2 align="center">Socials</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/liamribe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://liamribe.site" target="_blank">
+    <img src="https://img.shields.io/badge/liamribe.site-FF6B00?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Badge"/>
+  </a>
+</p>
