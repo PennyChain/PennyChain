@@ -10,14 +10,15 @@
     </td>
     <td valign="top">
       <pre>
-PennyChain@github
------------------
-Name: Liam Ribe 
-Age: 19
-Gender: Male
-Location: Fevik, Norway
-Hobbies: Volleyball, Pokémon, Watchmaker, Series
-Socials: LinkedIN, Liamribe.site
+        PennyChain@github
+        -----------------
+        Name: Liam Ribe 
+        Age: 19
+        Gender: Male
+        Location: Fevik, Norway
+        Hobbies: Volleyball, Pokémon, Watchmaker, Series
+        Socials: LinkedIN, Liamribe.site
+        Technologies: 🠇
       </pre>
     </td>
   </tr>
