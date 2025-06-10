@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://liamribe.site/Bilder/meg2.png" width="250" />
+      <img src="https://github.com/PennyChain/PennyChain/blob/main/meg%20-%20ascii.png?raw=true" width="250" />
     </td>
     <td valign="top">
       <pre>
@@ -18,7 +18,6 @@ Gender: Male
 Location: Fevik, Norway
 Hobbies: Volleyball, Pokémon, Watchmaker, Series
 Socials: LinkedIN, Liamribe.site
-Commits: 62
       </pre>
     </td>
   </tr>
