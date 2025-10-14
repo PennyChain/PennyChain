@@ -18,7 +18,7 @@ Gender: Male
 Location: Fevik, Norway
 Hobbies: Volleyball, Pokémon, Watchmaker, Movies/Series
 Socials: LinkedIN, Liamribe.site
-Technologies: 🠇
+Technologies: ./Technologies.py
       </pre>
     </td>
   </tr>
