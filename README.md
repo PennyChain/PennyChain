@@ -17,7 +17,7 @@ Age: 19
 Gender: Male
 Location: Fevik, Norway
 Hobbies: Volleyball, Pokémon, Watchmaker, Movies/Series
-Socials: LinkedIN, liamribe.pennyChain.no
+Socials: LinkedIN, liamribe.pennychain.no
 Technologies: ./Technologies.py
       </pre>
     </td>
@@ -115,6 +115,6 @@ Output:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://pennychain.no" target="_blank">
-    <img src="https://img.shields.io/badge/LiamRibe.PennyChain.no-FF6B00?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/liamribe.pennychain.no-FF6B00?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Badge"/>
   </a>
 </p>
