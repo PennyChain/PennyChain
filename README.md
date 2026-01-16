@@ -35,8 +35,8 @@ Technologies.py
 Pennychain = {
     "Technologies": {
         "Backend": {
-            "Languages": ["Python"],
-            "Frameworks": ["FastAPI"],
+            "Languages": ["Python", "C#"],
+            "Frameworks": ["FastAPI", "GraphQL", ".NET"],
             "Databases": ["MariaDB", "PostgreSQL"],
             "Web Servers": ["Uvicorn", "Nginx"],
             "Testing": ["Pytest"],
