@@ -66,6 +66,10 @@ print(Pennychain)
 Output:
 <h2 align="center">Backend</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testfully-API%20Testing-2EA44F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-31354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Uvicorn-4AB197?style=for-the-badge&logo=python&logoColor=white" />
